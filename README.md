@@ -2,7 +2,7 @@
 - 👀 Je m'interesse énormément au développement informatique de manière générale
 - 🌱 J'étudie actuellement en école d'ingénieurs (2e année de prépa intégrée)
 - 📫 Comment me contacter ? --> mon mail: rocknnarthur@gmail.com (sérieux uniquement)
-- BIENTOT SUR MA PAGE GITHUB : LE JEU TOKAIDO AU FORMAT PYTHON JOUABLE SUR ORDINATEUR (LOCAL UNIQUEMENT)
+- DISPO SUR MA PAGE GITHUB : LE JEU TOKAIDO AU FORMAT PYTHON JOUABLE SUR ORDINATEUR (LOCAL UNIQUEMENT)
 
 <!---
 rocknnarthur/rocknnarthur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
