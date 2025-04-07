@@ -1,6 +1,6 @@
 - 👋 Salut, je suis @rocknnarthur !
 - 👀 Je m'interesse énormément au développement informatique de manière générale
-- 🌱 J'étudie actuellement en école d'ingénieurs (3ème année)
+- 🌱 J'étudie actuellement en école d'ingénieurs (4ème année)
 - 📫 Comment me contacter ? --> mon mail: rocknnarthur@gmail.com (sérieux uniquement)
 - DISPO SUR MA PAGE GITHUB : LE JEU TOKAIDO AU FORMAT PYTHON JOUABLE SUR ORDINATEUR (LOCAL UNIQUEMENT)
 
